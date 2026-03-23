@@ -2,7 +2,7 @@
 
 Personal portfolio website built with vanilla HTML, CSS, and JavaScript.
 
-🔗 **Live Site:** [your-username.github.io/portfolio](https://your-username.github.io/portfolio)
+🔗 **Live Site:** [my_portfolio](https://pallavi-sankar.netlify.app/)
 
 ---
 
@@ -29,7 +29,7 @@ A minimal, dark-themed portfolio showcasing my projects, skills, certifications,
 
 ## Deploy
 
-Hosted via **GitHub Pages** — see below.
+Hosted via **Netlify** .
 
 ---
 
