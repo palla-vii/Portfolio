@@ -38,7 +38,7 @@ Hosted via **GitHub Pages** — see below.
 Just open the file in your browser — no build step needed.
 
 ```bash
-git clone https://github.com/your-username/portfolio.git
+git clone https://github.com/palla-vii/portfolio.git
 cd portfolio
 open index.html
 ```
