@@ -1,6 +1,6 @@
 # Pallavi Sankar — Portfolio
 
-Personal portfolio website built with vanilla HTML, CSS, and JavaScript.
+Personal portfolio website built with vanilla HTML, CSS.
 
 🔗 **Live Site:** [my_portfolio](https://pallavi-sankar.netlify.app/)
 
@@ -20,11 +20,10 @@ A minimal, dark-themed portfolio showcasing my projects, skills, certifications,
 
 - Hero — intro, role pills, quick links
 - About — profile summary, open-to, location
-- Skills — languages, frontend, backend, cloud, core focus
+- Skills — languages, core focus
 - Projects — end-to-end academic projects
 - Education — degrees and scores
-- Certifications — AWS, Oracle, Google, and more
-- Leadership — clubs and roles at VIT-AP
+- Certifications 
 - Contact — email, LinkedIn, GitHub
 
 ## Deploy
